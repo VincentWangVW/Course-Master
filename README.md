@@ -1,6 +1,6 @@
-# Course Master
+# UofT Course Schedule Helper
 
-Course Master is a Python-based application that helps users explore and analyze university courses. It features a GUI for user interaction, graph-based course dependency visualization, and a Scrapy-based web scraper for data collection.
+UofT Course Schedule Helper is a Python-based application that helps users explore and analyze university courses. It features a GUI for user interaction, graph-based course dependency visualization, and a Scrapy-based web scraper for data collection.
 
 ## Features
 
@@ -44,7 +44,7 @@ Use the `visualization.py` and `graph.py` modules to process and visualize cours
 ## Folder Structure
 
 ```
-Course-Master-main/
+UofT-Course-Schedule-Helper-main/
 ├── main.py                  # Launches the GUI
 ├── gui.py                   # GUI logic
 ├── graph.py                 # Graph generation
@@ -75,4 +75,4 @@ Developed as part of a CSC111 course project. See `CSC111_Project_2_Report.pdf` 
 
 ---
 
-© 2025 Course Master Contributors. All rights reserved.
+© 2025 UofT Course Schedule Helper Contributors. All rights reserved.
